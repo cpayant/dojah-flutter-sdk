@@ -1,7 +1,7 @@
-name: dojah_flutter_sdk
-description: A forked version of the original sdk (A webview implementation of dojah financial. Dojah helps all companies build fintech solutions by making it easy, safe and reliable for people to connect their financial data to apps and services)
+name: flutter_dojah_kyc
+description: A webview implementation of dojah financial. Dojah helps all companies build fintech solutions by making it easy, safe and reliable for people to connect their financial data to apps and services..
 version: 0.4.8
-homepage: https://github.com/cpayant/dojah-flutter-sdk
+homepage: https://github.com/dojah-inc/flutter-kyc
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
